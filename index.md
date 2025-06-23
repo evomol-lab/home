@@ -1,9 +1,9 @@
 ---
 ---
 
-# evoMOL-Lab's Website
+# evoMOL-Lab
 
-An engaging 1-3 sentence description of your lab.
+The Laboratory of Evolution of Molecules and Systems (EvoMol-Lab) is one of the research groups associated with the Bioinformatics Multidisciplinary Environment ([BioME](https://bioinfo.imd.ufrn.br)), of the Metrópole Digital Institute ([IMD](https://imd.ufrn.br)) at the Federal University of Rio Grande do Norte ([UFRN](https://ufrn.br)). EvoMol-Lab's mission is to study evolutionary processes that act on molecules, supramolecular complexes, and systems (pathways and interaction networks), and the structural and functional effects caused by genetic variation, using approaches from Bioinformatics, molecular modeling, and evolutionary sequence analyses. Its Principal Investigator is Prof. João Paulo MS Lima, a Full Professor at UFRN.
 
 {% include section.html %}
 
